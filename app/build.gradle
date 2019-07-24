@@ -34,4 +34,7 @@ dependencies {
     // Anko Layouts
     implementation "org.jetbrains.anko:anko-sdk25:$ankoVersion"
     implementation "org.jetbrains.anko:anko-appcompat-v7:$ankoVersion"
+
+    // Anko Listeners
+    implementation "org.jetbrains.anko:anko-sdk25-listeners:$ankoVersion"
 }
